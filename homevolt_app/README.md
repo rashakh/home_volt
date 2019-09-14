@@ -1,10 +1,8 @@
 # homevolt_app
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Folder is the app part of the Home Volt project
 
 A few resources to get you started if this is your first Flutter project:
 
